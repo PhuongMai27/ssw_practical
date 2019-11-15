@@ -10,6 +10,11 @@ Simple example of lexical and syntax analyzer. Without building AST (*abstract s
 Simple example of lexical and syntax analyzer. With building AST (*abstract syntax tree*).
 
 
+## task_03
+Simple example of lexical and syntax analyzer. With building AST (*abstract syntax tree*).
+Work with if/while/for operators.
+
+
 ### What we will be do:
 - build table of lexemes, scanner of Pascal's code;
 - build abstract syntax tree, parser of Pascal's code;
